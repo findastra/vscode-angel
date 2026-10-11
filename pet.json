@@ -18,7 +18,8 @@
     "repository": "https://github.com/findastra/astras-pet-apps"
   },
   "updated": "2026-10-09",
-  "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08",
+  "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11",
   "entry": "vscode-angel-20261008.html",
-  "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies."
+  "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
+  "desktop_pet": "desktop-pet-20261011.json"
 }

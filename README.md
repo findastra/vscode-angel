@@ -32,3 +32,5 @@ Version `0.1.1-20261009`, planned tag [`v0.1.1-20261009`](https://github.com/fin
 ## Credits
 
 Made by Astra. Interface prepared with Codex (GPT-6), 2026-10-08. The pet artwork is copied from Astra's Pet Apps.
+
+Desktop pet revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json for the current artwork, size and behavior. Desktop art remains a draft; no sparkles.

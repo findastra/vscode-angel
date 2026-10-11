@@ -25,3 +25,5 @@ Working offline draft: purpose-specific records, editing, status changes, search
 Check the actual browser script syntax and meaningful user flows after behavior changes. Keep data local, and do not launch scanners against the owner's files merely to test an interface.
 
 Cage: https://github.com/findastra/astras-pet-apps. Repository topic: `pet-app`.
+
+Desktop pet revision by OpenAI Codex (GPT-6), 2026-10-11. See desktop-pet-20261011.json for the current artwork, size and behavior. Desktop art remains a draft; no sparkles.
