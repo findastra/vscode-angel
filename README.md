@@ -6,6 +6,14 @@
 
 Track cleanup work with a clear reason, a next action and a record of the result.
 
+## Pictures
+
+![VSCode Angel's Code Care Desk: finding counters, your desk and the New finding form](docs/images/vscode-angel-program-page-20261017.png)
+
+VSCode Angel's [program page](https://findastra.github.io/astras-pet-os/apps/vscode-angel-20261008.html) as published in Astra's PetOS.
+
+Screenshots taken 2026-10-17 with GitHub Goldfish's [project-image-generator](https://github.com/findastra/github-goldfish#project-image-generator); added with Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-17.
+
 ## How to run
 
 Open [vscode-angel-20261008.html](vscode-angel-20261008.html) directly in a modern browser. No install, server, account, or network connection is needed.
