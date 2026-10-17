@@ -2,7 +2,7 @@
   "pet": "VSCode Angel",
   "kind": "pet-app",
   "owner": "Astra",
-  "job": "Un-vibe-codes a project and keeps everything written down in Markdown.",
+  "job": "Records code-review findings and next steps, then exports a Markdown worklist. Editor connections are planned.",
   "sprite": "sprite-20261008.json",
   "preview": "vscode-angel-20261008.html",
   "status": "hatching",
@@ -15,11 +15,16 @@
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os"
   },
   "updated": "2026-10-09",
   "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11",
   "entry": "vscode-angel-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
-  "desktop_pet": "desktop-pet-20261011.json"
+  "desktop_pet": "desktop-pet-20261011.json",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "your code cleanup worklist",
+    "needs": "a finding reviewed"
+  }
 }
