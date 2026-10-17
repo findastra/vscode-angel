@@ -10,15 +10,40 @@
   "source": "https://github.com/findastra/vscode-angel/tree/v0.1.1-20261009",
   "release_tag": "v0.1.1-20261009",
   "publication_status": "source-release-prepared; see docs/publications-20261009.md",
-  "visibility": "private",
+  "visibility": "public",
   "implementation_status": "Working offline draft: purpose-specific records, editing, status changes, search, local browser storage, JSON and Markdown exports. External integrations are planned.",
+  "program": {
+    "name": "Halo List",
+    "number": 16,
+    "version": "v0.1",
+    "status": "design only",
+    "design": "https://github.com/findastra/astras-pet-os/blob/claude/halo-list-program-20261017/docs/halo-list-20261017.md"
+  },
+  "tools": [
+    { "name": "open-in-vscode", "label": "halo-list-v0.1-open-in-vscode-v0.1", "level": "L2", "status": "planned" },
+    { "name": "initial-assessment", "label": "halo-list-v0.1-initial-assessment-v0.1", "level": "L2", "status": "planned" },
+    { "name": "explainer", "label": "halo-list-v0.1-explainer-v0.1", "level": "L3", "status": "planned" },
+    { "name": "guided-update", "label": "halo-list-v0.1-guided-update-v0.1", "level": "L3", "status": "planned" },
+    { "name": "notes-tool", "label": "halo-list-v0.1-notes-tool-v0.1", "level": "L2", "status": "offline record app is the start" }
+  ],
+  "framework": "PET-PROGRAM-FRAMEWORK.md in findastra/astras-pet-os (read 2026-10-17)",
+  "audit": {
+    "cadence": "weekly",
+    "subject": "your code cleanup worklist",
+    "needs": "a finding reviewed"
+  },
   "cage": {
     "topic": "pet-app",
     "home": "README.md",
-    "repository": "https://github.com/findastra/astras-pet-apps"
+    "repository": "https://github.com/findastra/astras-pet-os",
+    "submit": {
+      "date": "2026-10-17",
+      "job": "Opens any pet program, tool or trick in VS Code, rates how vibe-coded it is, lists its errors and suggests a clearer structure, then guides each update with Markdown notes that say what the code does.",
+      "status": "hatching"
+    }
   },
-  "updated": "2026-10-09",
-  "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11",
+  "updated": "2026-10-17",
+  "built_with": "browser interface prepared with Codex (GPT-6), 2026-10-08; OpenAI Codex (GPT-6), 2026-10-11; Halo List design by Claude Haiku 5.5 (claude-haiku-5-5), 2026-10-17",
   "entry": "vscode-angel-20261008.html",
   "runs_on": "Modern browser, directly from the local HTML file; no server or dependencies.",
   "desktop_pet": "desktop-pet-20261011.json"
